@@ -1,0 +1,56 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch user",
+            "request": "launch",
+            "mainClass": "edu.kelton.SistemaTv.user",
+            "projectName": "Java-anatomia-de-classes_d7300c98"
+        },
+        {
+            "type": "java",
+            "name": "Launch user",
+            "request": "launch",
+            "mainClass": "user",
+            "projectName": "Java-anatomia-de-classes_d7300c98"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch operadores",
+            "request": "launch",
+            "mainClass": "edu.kelton.TiposVariaveis.operadores",
+            "projectName": "Java-anatomia-de-classes_d7300c98"
+        },
+        {
+            "type": "java",
+            "name": "Launch variaveis",
+            "request": "launch",
+            "mainClass": "edu.kelton.TiposVariaveis.variaveis",
+            "projectName": "Java-anatomia-de-classes_d7300c98"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoletinEstudantil",
+            "request": "launch",
+            "mainClass": "edu.kelton.atividadesjava.BoletinEstudantil",
+            "projectName": "Java-anatomia-de-classes_d7300c98"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinhaClass",
+            "request": "launch",
+            "mainClass": "edu.kelton.atividadesjava.MinhaClass",
+            "projectName": "Java-anatomia-de-classes_d7300c98"
+        }
+    ]
+}
