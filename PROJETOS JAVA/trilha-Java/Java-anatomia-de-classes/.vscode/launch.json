@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch operadoresRelacionais",
+            "request": "launch",
+            "mainClass": "edu.kelton.TiposVariaveis.operadoresRelacionais",
+            "projectName": "Java-anatomia-de-classes_d7300c98"
+        },
+        {
+            "type": "java",
             "name": "Launch aboutme",
             "request": "launch",
             "mainClass": "edu.kelton.atividadesjava.aboutme",
