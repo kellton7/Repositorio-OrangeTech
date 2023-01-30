@@ -2,7 +2,7 @@ package edu.kelton.TiposVariaveis;
 
 public class controleFluxo {
     public static void main(String[] args) {
-        //Utilizando estrutura de repitição
+        //Utilizando Estrutura de repitição
 
          ifFlecha();
          ifSemFlecha();
