@@ -1,8 +1,8 @@
-# Projetos Java  
+# 📁 Projetos Java  
 
 Bem vindo!, esses sáo alguns dos meus projetos conhecendo e aprendendo java na https://web.dio.me
 
-## atividaesjava
+## 📌 atividaesjava
 
 aboutme.java: 
 
@@ -10,13 +10,12 @@ BoletinEstudanyil.java:
 
 MinhaClass.java
 
-## :(pushpin): sistemaTv
-
+## 📌 sistemaTv 
 smarTv.java:
 
 user.java:
 
-## TiposVariaveis
+## 📌 TiposVariaveis
 
 controleFluxo.java:
 
