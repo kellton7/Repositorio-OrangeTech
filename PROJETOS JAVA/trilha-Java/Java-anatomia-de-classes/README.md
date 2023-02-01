@@ -43,4 +43,4 @@ variaveis.java:
         Gerador de Tabuada, faz a tabuada de qualquer número int entre 1 a 10.
 
 ### ex6_Fatorial:
-        
+        Programa que calcula o fatorial de um número int.
