@@ -1,6 +1,7 @@
 package edu.kelton.loops;
 import java.util.Scanner;
-public class parEINPAR {
+
+public class ex_4parEINPAR {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
