@@ -32,3 +32,6 @@ variaveis.java:
 ### ex2_nota:
         Programa pede uma nota entre 0 e 10, mostra mensagem quando valor for inválido e continua pedindo a nota
         Até o user informar um valor válido.
+
+### ex3_maiorEMEDIA:
+        Progrma que ler 5 números e informa o mairo deles e a média desses números
