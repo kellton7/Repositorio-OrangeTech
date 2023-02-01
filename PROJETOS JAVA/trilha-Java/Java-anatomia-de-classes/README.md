@@ -37,4 +37,7 @@ variaveis.java:
         Programa que ler 5 números e informa o mairo deles e a média desses números.
 
 ### ex4_maiorEMEDIA:
-        Programa que pede 'N' números int, e calcula a quantidade de números pares e ímpares
+        Programa que pede 'N' números int, e calcula a quantidade de números pares e ímpares.
+
+### ex5_Tabuada:
+        Gerador de Tabuada, faz a tabuada de qualquer número int entre 1 a 10.
