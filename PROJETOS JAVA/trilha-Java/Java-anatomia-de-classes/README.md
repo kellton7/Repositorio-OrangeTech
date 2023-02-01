@@ -41,3 +41,6 @@ variaveis.java:
 
 ### ex5_Tabuada:
         Gerador de Tabuada, faz a tabuada de qualquer número int entre 1 a 10.
+
+### ex6_Fatorial:
+        

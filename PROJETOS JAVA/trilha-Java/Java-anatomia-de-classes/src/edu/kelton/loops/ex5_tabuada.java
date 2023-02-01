@@ -2,7 +2,7 @@ package edu.kelton.loops;
 import java.util.Scanner;
 
 import javax.lang.model.util.ElementScanner14;
-public class tabuada {
+public class ex5_tabuada {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
