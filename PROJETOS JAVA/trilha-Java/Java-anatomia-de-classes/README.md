@@ -56,3 +56,4 @@ variaveis.java:
         e seu sucessor.
          
 ### ex10_arrayMulti:
+        Matriz M 4x4 com valores aleatírio entre 0 - 9.
