@@ -44,3 +44,6 @@ variaveis.java:
 
 ### ex6_Fatorial:
         Programa que calcula o fatorial de um número int.
+
+### ex6_Fatorial:
+        Vetor de 6 num int, mostrado na ordem inversa

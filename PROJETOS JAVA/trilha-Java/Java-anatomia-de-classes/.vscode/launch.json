@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ex7_0rdemInversa",
+            "request": "launch",
+            "mainClass": "edu.kelton.loops.ex7_0rdemInversa",
+            "projectName": "Java-anatomia-de-classes_d7300c98"
+        },
+        {
+            "type": "java",
             "name": "Launch ex6_Fatorial",
             "request": "launch",
             "mainClass": "edu.kelton.loops.ex6_Fatorial",
