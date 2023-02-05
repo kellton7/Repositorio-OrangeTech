@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ex9_numAleatorio",
+            "request": "launch",
+            "mainClass": "edu.kelton.loops.ex9_numAleatorio",
+            "projectName": "Java-anatomia-de-classes_d7300c98"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex8_consoante",
+            "request": "launch",
+            "mainClass": "edu.kelton.loops.ex8_consoante",
+            "projectName": "Java-anatomia-de-classes_d7300c98"
+        },
+        {
+            "type": "java",
             "name": "Launch ex7_0rdemInversa",
             "request": "launch",
             "mainClass": "edu.kelton.loops.ex7_0rdemInversa",

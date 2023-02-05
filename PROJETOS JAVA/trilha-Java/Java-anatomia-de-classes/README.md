@@ -45,5 +45,14 @@ variaveis.java:
 ### ex6_Fatorial:
         Programa que calcula o fatorial de um número int.
 
-### ex6_Fatorial:
-        Vetor de 6 num int, mostrado na ordem inversa
+### ex7_0rdemInversa:
+        Vetor de 6 num int, mostrado na ordem inversa.
+
+### ex8_consoantes:
+        Programa que ler um vetor de 6 str, e mostra consoantes lidas.
+
+### ex9_numAleatorio:
+        Programa que ler 20 num inteiros aleatórios (0 a 100) e amazena em um vetor, dps mostra os números
+        e seu sucessor.
+         
+### ex10_arrayMulti:
