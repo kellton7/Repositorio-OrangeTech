@@ -16,6 +16,7 @@ public class ex5_tabuada {
         }else {
             System.out.println("Tabuada de " + numtabuada);
 
+            
             for( int i = 1; i <= 10; i++ ){
                 System.out.println(numtabuada + " x " + i + " = " + (numtabuada * i) );
             }
