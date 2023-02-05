@@ -31,6 +31,7 @@ public class ex8_consoante {
 
         System.out.println("Consoantes: ");
 
+        
         for (String consoante : consoantes) {
             if ( consoante != null)
                 System.out.println(consoante + " ");
