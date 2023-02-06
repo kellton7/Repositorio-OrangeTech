@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "edu.kelton.metodos.main",
+            "projectName": "Java-anatomia-de-classes_d7300c98"
+        },
+        {
+            "type": "java",
             "name": "Launch ex10_arrayMulti",
             "request": "launch",
             "mainClass": "edu.kelton.loops.ex10_arrayMulti",
