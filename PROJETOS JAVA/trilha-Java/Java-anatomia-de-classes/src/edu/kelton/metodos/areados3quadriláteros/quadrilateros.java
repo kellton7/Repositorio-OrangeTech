@@ -18,4 +18,9 @@ public class quadrilateros {
         
         System.out.println("Area do trapézio: " + ((baseMaior + baseMenor) * altura) / 2);
     }
+
+    public static void area (float diagonal1, float diagonal2) {
+        
+        System.out.println("Area do losangolo: " + (diagonal1 * diagonal2 / 2));
+    }
 }
