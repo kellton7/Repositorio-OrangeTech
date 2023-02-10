@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch program",
+            "request": "launch",
+            "mainClass": "edu.kelton.atividadesjava.program",
+            "projectName": "Java-anatomia-de-classes_d7300c98"
+        },
+        {
+            "type": "java",
             "name": "Launch main",
             "request": "launch",
             "mainClass": "edu.kelton.metodos.areados3quadriláteros.main",
