@@ -9,6 +9,5 @@ public class desafio04 {
         
         System.out.println("O cliente obteve " + total + " doces");
         // TODO: Crie a condição necessária para que cada cliente saiba quantos doces vai obter de acordo com a entrada
-
     }
 }
