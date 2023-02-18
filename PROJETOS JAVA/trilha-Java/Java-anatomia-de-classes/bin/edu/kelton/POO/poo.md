@@ -1,6 +1,6 @@
 # 📁 PROGRAMAÇÃO ORIENTADA A OBJETO (POO)
 
- - "A orientação a objetos é um paradigma de analíse, projeto e programação de sistemas de software baseado na
+ "A orientação a objetos é um paradigma de analíse, projeto e programação de sistemas de software baseado na
  composição e interação entre diversas unidades de software chamadas de objeto."
 
 ## 📌 ABSTRAÇÃO
