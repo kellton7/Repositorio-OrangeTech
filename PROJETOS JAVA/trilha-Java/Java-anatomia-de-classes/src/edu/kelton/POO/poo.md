@@ -3,14 +3,14 @@
  "A orientação a objetos é um paradigma de analíse, projeto e programação de sistemas de software baseado na
  composição e interação entre diversas unidades de software chamadas de objeto."
 
-## 📌 ABSTRAÇÃO
+### 📌 ABSTRAÇÃO
   - "Processo pelo qual se isolam características de um objeto, considerando os que tenham em comum certos grupos
   de objetos."
 
-## 📌 REUSO
+#### 📌 REUSO
   - "Capacidade de criar novas unidades de código a partir de outras já existentes."
 
-## 📌 ENCAPSULAMENTO
+### 📌 ENCAPSULAMENTO
   - "Capacidade de esconder complexidades e proteger dados. "
 
 ## 🔓 ESTRUTURA BASICA DA OO:
@@ -27,4 +27,10 @@
 
     📋 MENSAGEM: "É o precesso de ativação de um método de um objeto, ocorre quando uma requisição a esse método
     é realizada, assim disparando a execução de seu comportamento descrito por sua classe. Pode também ser direcionada diretamente à classe caso a requisição seja a um método estático."
+
+## 📌 AS RELAÇÕES: HERANÇA, ASSOCIAÇÃO E INTERFACE:
+
+  🔑 HERANÇA: 
+
+
 
