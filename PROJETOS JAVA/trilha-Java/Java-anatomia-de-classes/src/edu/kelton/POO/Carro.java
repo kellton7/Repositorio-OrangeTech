@@ -1,6 +1,6 @@
 package edu.kelton.POO;
 
-class Carro {
+class Carro{
 
     String cor;
     String modelo;

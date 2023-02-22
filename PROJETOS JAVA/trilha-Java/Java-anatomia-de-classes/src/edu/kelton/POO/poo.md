@@ -30,7 +30,11 @@
 
 ## 📌 AS RELAÇÕES: HERANÇA, ASSOCIAÇÃO E INTERFACE:
 
-  🔑 HERANÇA: 
+  🔑 HERANÇA: É o relacionamento entre classes em que uma classe chamada de subclasse(filha, derivada) é uma extensaõ
+  um subtipo de outra classe chamada de superclasse(pai, mãe, base). Devido a isto, a subclasse consegue  reaproveitar os atributos e métodos dela. Além dos que velham a ser herdados, a subclasse pode definir seus próprios menbros.
+
+  🔑 ASSOCIAÇÂO:  
+
 
 
 
