@@ -22,7 +22,9 @@
 
     📋 MÉTODO: "É uma proção de codígo que é disponibilizada pela, classe este é executado quando é feita uma requisição a ele. Um método serve para identificar quais serviços, ações que a classe oferece eles são responsáveis por definir e realizar um determinado comportamento"
 
-    📋 OBJETO E MENSAGEM: "Um obejeto é a representação de um conceito/entidade do mundo real,  que pode ser física 
+    📋 OBJETO: "Um obejeto é a representação de um conceito/entidade do mundo real,  que pode ser física 
     ou conceitual, possui um siginificado bem definido para um determinado software, para esse conceito deve ser definida inicialmente uma classe a partir da qual posteriormente serão instanciados objetos distindos."
 
+    📋 MENSAGEM: "É o precesso de ativação de um método de um objeto, ocorre quando uma requisição a esse método
+    é realizada, assim disparando a execução de seu comportamento descrito por sua classe. Pode também ser direcionada diretamente à classe caso a requisição seja a um método estático."
 
