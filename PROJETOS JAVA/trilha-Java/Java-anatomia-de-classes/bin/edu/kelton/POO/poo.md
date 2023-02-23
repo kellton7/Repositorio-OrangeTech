@@ -33,7 +33,9 @@
   🔑 HERANÇA: É o relacionamento entre classes em que uma classe chamada de subclasse(filha, derivada) é uma extensaõ
   um subtipo de outra classe chamada de superclasse(pai, mãe, base). Devido a isto, a subclasse consegue  reaproveitar os atributos e métodos dela. Além dos que velham a ser herdados, a subclasse pode definir seus próprios menbros.
 
-  🔑 ASSOCIAÇÂO:  
+  🔑 ASSOCIAÇÂO: "Possibilita um relacionamento entre as classe/objetos para eles poder pedir ajuda a outras classes/objetos e representar de forma completa o conceito ao qual se destinam, os objetos interagem entre si para atingir seu objetivo"
+
+  🔑 INTERFACE: " "
 
 
 
