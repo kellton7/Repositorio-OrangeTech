@@ -1,4 +1,4 @@
-package edu.kelton.POO;
+package edu.kelton.POO.Herança;
 
 class Moto extends Veiculos {
     
