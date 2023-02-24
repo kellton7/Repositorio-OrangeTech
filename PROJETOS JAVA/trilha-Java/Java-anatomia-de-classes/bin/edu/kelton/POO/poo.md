@@ -35,7 +35,7 @@
 
   🔑 ASSOCIAÇÂO: "Possibilita um relacionamento entre as classe/objetos para eles poder pedir ajuda a outras classes/objetos e representar de forma completa o conceito ao qual se destinam, os objetos interagem entre si para atingir seu objetivo"
 
-  🔑 INTERFACE: " "
+  🔑 INTERFACE: "Define interface um contrato que deve ser seguido pela class que a implementa, quando uma class implementa uma interface ela se compromete a realizar todos os comportamentos que a interface disponibiliza"
 
 
 
