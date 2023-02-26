@@ -6,3 +6,7 @@
 
     - Elementos dublicados e garante ordem de inserção
     - ArrayList deve ser usado onde mais operações de pesquisa são necessárias e LinkedList dever ser usado onde mais operações de inserções e exclusão são necessárias;
+
+## 📌 SET (java.util.set)
+
+    - Não permite elementos dublicados, não tem índece
