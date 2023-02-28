@@ -6,8 +6,6 @@ import java.util.Objects;
 import java.util.Set;
 import java.util.TreeSet;
 
-import edu.kelton.SistemaTv.smartTv;
-
 class TesteOrdenacaoSet{
     public static void main(String[] args) {
 

@@ -109,6 +109,5 @@ public static void main(String[] args) {
     System.out.println("Confira se a lista 1 carros esta vazia: " + carrosPopulares1.isEmpty());
     System.out.println("Confira se a lista 2 carros esta vazia: " + carrosPopulares2.isEmpty());
 
-
 }
 }
