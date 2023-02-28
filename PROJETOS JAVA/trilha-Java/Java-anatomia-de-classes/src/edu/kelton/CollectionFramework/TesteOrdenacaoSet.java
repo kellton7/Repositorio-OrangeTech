@@ -98,5 +98,6 @@ class CompartorNomeGeneroTempo implements Comparator<Serie>{
         if( genero != 0) return genero;
         return Integer.compare(s1.getTempoEp(), s2.getTempoEp());
     
+        
     }
 }
