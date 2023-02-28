@@ -22,6 +22,7 @@ public static void main(String[] args) {
         put("R35", 50d);
         put("Mobi", 23.1);
     }};
+    
     System.out.println(carrosPopulares);
 
     System.out.println("Substitua o consumo do 'Gol' por 15.2 km/l: ");
