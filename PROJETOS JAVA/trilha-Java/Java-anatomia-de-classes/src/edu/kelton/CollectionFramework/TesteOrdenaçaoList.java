@@ -5,7 +5,6 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-
 class TesteOrdençaoList{
     public static void main(String[] args) {
 
