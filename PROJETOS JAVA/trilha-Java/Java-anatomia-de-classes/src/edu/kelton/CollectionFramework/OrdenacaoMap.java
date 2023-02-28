@@ -42,16 +42,14 @@ class OrdenacaoMap {
         System.out.println("--\tOrdem Alfabética nomes dos livros\t--");
         Set<Map.Entry<String, Livro>> meusLivros3 = new TreeSet<>(new ComparatorNome());
         meusLivros3.addAll(meuslivro.entrySet());
-        System.out.println(meusLivros3);
         for(Map.Entry<String, Livro> livros: meusLivros3)
             System.out.println(livros.getKey() + " - " + livros.getValue().getNome());
         
         System.out.println("--\tOrdem numero de paginas\t--");
         Set<Map.Entry<String, Livro>> meusLivros4 = new TreeSet<>(new ComparetorPagina());
         meusLivros4.addAll(meuslivro.entrySet());
-        System.out.println(meusLivros4);
         for(Map.Entry<String, Livro> livros: meusLivros4)
-            System.out.println(livros.getKey() + " - " + livros.getValue().getNome());
+            System.out.println(livros.getValue().getNome() + "-" + livros.getValue().getPaginas());
     }
 }
 class Livro{
@@ -114,7 +112,7 @@ class ComparetorPagina implements Comparator<Map.Entry<String, Livro>>{
 
     @Override
     public int compare(Map.Entry<String, Livro> l1, Entry<String, Livro> l2) {
-        return l1.getValue().getPaginas().compareToIgnoreCase(l2.getValue().getPaginas());
+        return l1.getValue().getPaginas().compareTo(l2.getValue().getPaginas());
     }
     
 }
