@@ -10,3 +10,7 @@
 ## 📌 SET (java.util.set)
 
     - Não permite elementos dublicados, não tem índece
+
+## 📌 MAP (java.util.Map)
+
+    - Elementos únicos (key) para cada valor (value)
