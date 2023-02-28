@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "testeMap",
+            "request": "launch",
+            "mainClass": "edu.kelton.CollectionFramework.testeMap",
+            "projectName": "Java-anatomia-de-classes_d7300c98"
+        },
+        {
+            "type": "java",
             "name": "Launch TesteOrdenacaoSet",
             "request": "launch",
             "mainClass": "edu.kelton.CollectionFramework.TesteOrdenacaoSet",
